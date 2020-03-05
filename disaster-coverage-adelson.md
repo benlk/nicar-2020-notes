@@ -7,9 +7,13 @@ This is notes from the sub-talk by Jeff Adelson, of the Times-Picayune and the N
 
 Don't call it a "100-year storm", because while it means that there's a 1% chance of the storm happening in any given year, many people interpret it to mean that these storms come every hundred years.
 
+## Flood maps
+
 Hundred-year storms, aka 1% storms, are a term of art created by the National Flood Insurance Program, which provides a way of determining at-risk areas. However, the flood assessments and maps may be out of date to may not take climate change into account. Check when they were updated.
 
-## River flooding
+Because the NFIP flood maps affect flood insurance rates, and what's insurable, they affect property values, which means that these maps are _politically drawn_.
+
+## River flood levels
 
 There's multiple sources of river-level data. It makes for nice graphs, and you can compare the predicted river heights with flood preparations like the levees.
 
@@ -24,6 +28,10 @@ Read the maps' documentaton
 The Corps of Engineers have levees all over the place. They have lots of documentation and data that's available.
 
 The Corps handles risk in a wonky fashion: With levees of the same height on either side of the same river, the farmland side of the river has lower risk than the populated side of the river.
+
+## All Hazards Planning
+
+"All-hazards planning" is what disaster managers focus on. They evaluate the risks of any kind of hazard that could impact an area, regardless of how likely it is. It emphasizes the most-common kinds of disasters are not necessarily going to be the ones that post the biggest threat.
 
 ## Story ideas
 

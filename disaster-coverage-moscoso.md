@@ -24,5 +24,5 @@ How to create your own database:
 - Online surveys asking people to report how their loved ones were affected by the disaster. Ask about the circumstances of deaths.
 - Request the official death countrs.
 
-
-
+> The hurricane is natural.
+> The disaster is political.
