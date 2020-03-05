@@ -1,28 +1,33 @@
-## Tips for disaster coverage:
+Investigating natural disasters: What to do before, during and after
 
-From Laura Moscoso of CPIPR:
-
-Before the disaster:
-- Always be requesting the official emergency-reponse plans, from every government agency, at all levels. Go beyond gov: ask the sorts of NGOs that respond to disasters as well. Keep these data requests up to date.
-- Ask your sources, even off the record, what the contingency protocols are.
-- Have physical maps of hospitals, offices, police. Print off phone numbers.
-- Have an emergency response plan for your own newsroom.
-- What do you need to have to do your job, without power, water, gas, or Internet? Answering that question is a key part of your plan.
-
-During the disaster:
-- Collect official statements.
-- Listen to local radio - it's where official statements are distributed, but people also call into local radio.
-- Pay attention to local/state/national executive orders that are issued.
-- Compose a written timeline of accidents and events near you, and compare it with the official accounts and with the goings-on near you.
-- Find the community places where people post missing-persons reports.
-
-After the disaster:
-- Check in with coworkers
-- Check in with colleagues in other outlets, and check what their view on the event is
-
-How to create your own database:
-- Online surveys asking people to report how their loved ones were affected by the disaster. Ask about the circumstances of deaths.
-- Request the official death countrs.
+This is notes from the sub-talk by Jeff Adelson, of the Times-Picayune and the New Orleans Advocate.
 
 
+## Hundred Year Storms
 
+Don't call it a "100-year storm", because while it means that there's a 1% chance of the storm happening in any given year, many people interpret it to mean that these storms come every hundred years.
+
+Hundred-year storms, aka 1% storms, are a term of art created by the National Flood Insurance Program, which provides a way of determining at-risk areas. However, the flood assessments and maps may be out of date to may not take climate change into account. Check when they were updated.
+
+## River flooding
+
+There's multiple sources of river-level data. It makes for nice graphs, and you can compare the predicted river heights with flood preparations like the levees.
+
+## Hurricanes
+
+The National hurricane Center has all the products. They're trying to improve the ways with which they communicate risks. It's not just wind speeds, which drive the categorization of the hurricane. it's rain amounts and storm surge. NHC is creating new forecast products like worst-case inundation risk maps.
+
+Read the maps' documentaton
+
+## Levees
+
+The Corps of Engineers have levees all over the place. They have lots of documentation and data that's available.
+
+The Corps handles risk in a wonky fashion: With levees of the same height on either side of the same river, the farmland side of the river has lower risk than the populated side of the river.
+
+## Story ideas
+
+- Compare FEMA flood-prediction maps with the areas of actual flooding.
+- How is the community adapting and making changes to lessen future flood damage? Are people rebuilding in flood zones?
+
+> The most-catastrophic disaster is one you have not prepared for.
