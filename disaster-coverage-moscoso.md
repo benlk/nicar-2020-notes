@@ -19,6 +19,8 @@ During the disaster:
 After the disaster:
 - Check in with coworkers
 - Check in with colleagues in other outlets, and check what their view on the event is
+- Stay on social media
+- Stay in touch with the local officials, because they'll be having meetings and other forms of planning immediately, in the anticipation that higher forms of government won't respond adequately or in time.
 
 How to create your own database:
 - Online surveys asking people to report how their loved ones were affected by the disaster. Ask about the circumstances of deaths.
