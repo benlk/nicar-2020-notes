@@ -9,3 +9,4 @@ session | date/time | location | tipsheet
 [cheap and easy visuals](./tools-you-can-use.md) | Thursday, March 5 at 2:15 | Galerie 2 | https://bit.ly/NICAR20Viz |
 [Big Local News, by Stanford](./big-local-news-stanford.md) | Thursday, March 5 at 3:30 | Galerie 4 | |
 [Library, by the NYT](./nyt-library.md) | Friday, March 6 at 10:15 | Galerie 4 | |
+d3 mapping | Friday, March 6 at 11:30 | Studio 9| https://github.com/ashaw/nicar2020-d3-maps |
