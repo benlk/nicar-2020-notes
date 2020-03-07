@@ -15,3 +15,4 @@ QGIS 1 | Saturday, March 7 at 0:00 | Studio 8 | http://bit.ly/3cDtRZJ
 QGIS 2 | Saturday, March 7 at 0:00 | Studio 8 | https://bit.ly/2VOJ2cB
 [data diaries](./data-diary.md) | Saturday, March 7 at 10:15 | Galerie 3 | 
 [art of the interview](./art-of-the-interview.md) | Saturday, March 7 at 11:30 | Galerie 2 |
+[data journalism as team of one](./solo-data-journalism.md) | Saturday, March 7 at 2:15 | Galerie 4 |
