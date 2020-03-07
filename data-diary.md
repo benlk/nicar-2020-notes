@@ -3,7 +3,7 @@
 https://ireapps.github.io/nicar-2020-schedule/#20200307_dear_diary_best_practices_for_keeping_a_data_diary_2105_all
 
 What:
-- reciep for how to complete your analysis
+- Recipe for how to complete your analysis
 - recording of every step you take, every decision you make
 - reasoning why you took that step
 - it's like your interview notes
@@ -20,17 +20,35 @@ Who is the reader?
 - You:
 	- if you spend a long weekend or have to leave the project for a bit.
 	- if it's something updated periodically and you rerun the same analysis every day
+	- _especially_ if you're the only journo in your newsroom
 - your colleagues
+	- program as if you're going to be quarantined tomorrow, so anyone else can pick it up
 - your boss
 - readers
 - lawyers
 - everyone
 
 What are the formats
+- Pen and paper
+	- please no
 - Google Docs
-- Text files
-- Jupyter or Observable notebooks
+	- Code Blocks plugin for Gdocs: https://gsuite.google.com/marketplace/app/code_blocks/100740430168
+- Excel/Google Sheets
+	- comment functions: https://support.office.com/en-us/article/insert-comments-and-notes-in-excel-bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8
+	- Google Sheets: https://support.google.com/docs/answer/65129?co=GENIE.Platform%3DDesktop&hl=en
+- Text/Markdown files
+	- https://en.wikipedia.org/wiki/Runbook
+- Jupyter or Observable or R Markdown notebooks
+	- Jupyter: http://www.firstpythonnotebook.org/
+	- Observable: https://twitter.com/palewire/status/1084573066271682560
+	- R Markdown: https://rmarkdown.rstudio.com/
+	- use whatever format is also used in your newsroom, whatever's most helpful for you
 - Whatever works for you and is clear to other people
+
+Use a format that makes sense for the future reader of your work.
+- Maybe your reader is an R coder, and you did your analysis in R, so leaving the data diary in the form of the comments in the code.
+- Maybe your reader doesn't share a code language, so plain text is better
+- Maybe your reader isn't good with the text editor, so you want to do it in Google Docs
 
 What should it contain?
 - your code/formulae
