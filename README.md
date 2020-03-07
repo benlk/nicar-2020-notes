@@ -16,3 +16,4 @@ QGIS 2 | Saturday, March 7 at 0:00 | Studio 8 | https://bit.ly/2VOJ2cB
 [data diaries](./data-diary.md) | Saturday, March 7 at 10:15 | Galerie 3 | 
 [art of the interview](./art-of-the-interview.md) | Saturday, March 7 at 11:30 | Galerie 2 |
 [data journalism as team of one](./solo-data-journalism.md) | Saturday, March 7 at 2:15 | Galerie 4 |
+[live data-driven app that never goes down](./data-driven-no-downtime.md) | Saturday, March 7 at 3:30 | Studio 6 | https://github.com/TylerFisher/nicar20
