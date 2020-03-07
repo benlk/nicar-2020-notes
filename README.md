@@ -14,3 +14,4 @@ d3 mapping | Friday, March 6 at 11:30 | Studio 9| https://github.com/ashaw/nicar
 QGIS 1 | Saturday, March 7 at 0:00 | Studio 8 | http://bit.ly/3cDtRZJ
 QGIS 2 | Saturday, March 7 at 0:00 | Studio 8 | https://bit.ly/2VOJ2cB
 [data diaries](./data-diary.md) | Saturday, March 7 at 10:15 | Galerie 3 | 
+[art of the interview](./art-of-the-interview.md) | Saturday, March 7 at 11:30 | Galerie 2 |
