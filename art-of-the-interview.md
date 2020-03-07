@@ -38,4 +38,8 @@ Tisha Thompson, ESPN
 	- I wonder if how well this works for non-neurotypical reporters or interview subjects.
 - Overprepare: be prepared for every possible answer. It's like writing a Choose-your-own Adventure novel.
 - Choreograph the interview: know how you'll move.
-- Kids are a challenge; get to know them and get them comfortable before putting them on the camera.
+- Kids are a challenge
+	- get to know them and get them comfortable before putting them on the camera.
+	- use lavalier mike
+	- don't put them in a swivel chair
+	- especially have a second camera
