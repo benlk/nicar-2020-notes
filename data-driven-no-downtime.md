@@ -27,6 +27,8 @@ So let's talk about serverless architecture. It's a way to use a major cloud pro
 - your backend needs can be broken into individual functions
 - you won't run functions often, because they can get expensive with frequent runs.
 
+https://burkeholland.github.io/posts/laws-of-serverless/
+
 If you're updating the site frequently &mdash;
 
 Let's talk about static websites! HTML, CSS, JS: no backend. No database powering the website.
